@@ -56,12 +56,12 @@ To become a leading student-driven technology community that inspires learners t
 
 ## 🛠 Technologies We Explore
 
-![Programming](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=code5&logoColor=white)
-![AI](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=robot3&logoColor=white)
-![Cyber Sec](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=hacker&logoColor=black)
-![Web Dev](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tech](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=laptop&logoColor=white)
-![Tutorials](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=newspaper&logoColor=white)
+![Programming](https://img.shields.io/badge/Programming-E34F26?style=for-the-badge&logo=code5&logoColor=white)
+![AI](https://img.shields.io/badge/AI-1572B6?style=for-the-badge&logo=robot3&logoColor=white)
+![Cyber Sec](https://img.shields.io/badge/CyberSec-F7DF1E?style=for-the-badge&logo=hacker&logoColor=black)
+![Web Dev](https://img.shields.io/badge/WebDev-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tech](https://img.shields.io/badge/Tech-F05032?style=for-the-badge&logo=laptop&logoColor=white)
+![Tutorials](https://img.shields.io/badge/Tutorials-181717?style=for-the-badge&logo=newspaper&logoColor=white)
 
 ---
 
